@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nitin612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CoderbBoyNitin?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bod9xcraxrbas5eudj76t2q%3d%3d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/CoderBoyNitin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CoderBoyNitin" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nitin_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CoderBoyNitin" height="30" width="40" /></a>
 </p>
 
 ---

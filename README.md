@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
 
-<h3 align="center">Aspiring Information Technology professional currently developing proficiency in and data structures & algorithms (DSA) from India</h3>
+<h3 align="center">Aspiring Information Technology professional currently developing proficiency in data structures & algorithms (DSA) from India</h3>
 
 ---
 

@@ -4,16 +4,14 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaanand06&label=Profile%20views&color=0e75b6&style=flat" alt="adityaanand06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderBoyNitin&label=Profile%20views&color=0e75b6&style=flat" alt="CoderBoyNitin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaanand06" alt="adityaanand06" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderBoyNitin" alt="CoderBoyNitin" /></a> </p>
 
 💡 About Me
 
   I'm a second-year engineering student passionate about solving real-world problems through AI and data-driven solutions. 
   I enjoy working on projects that blend machine learning, deep learning, and software  engineering.
-
-- 🔭 I’m currently working on an **AI recommendation system using PyTorch.**
 
 - 🚀 I’m currently open to internship opportunities in Software or Data Science.
   
@@ -23,8 +21,8 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/adityaanand05?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bod9xcraxrbas5eudj76t2q%3d%3](https://www.linkedin.com/in/nitin612)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CoderbBoyNitin?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bod9xcraxrbas5eudj76t2q%3d%3d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adityaanand05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityaanand05" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitin612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CoderbBoyNitin?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bod9xcraxrbas5eudj76t2q%3d%3d" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/CoderBoyNitin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CoderBoyNitin" height="30" width="40" /></a>
 </p>
 
 ---
